@@ -1,7 +1,11 @@
 1. Become root user:
 
 # sudo su -
-
+in edureka lab we have GIT installed but in aws ec2 instance we need to install git
+#yum install git
+#press y
+to check git version
+#git --version
 Create a Local repository using GIT
 
 #  mkdir myproject
